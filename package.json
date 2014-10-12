@@ -1,0 +1,18 @@
+{
+  "main": "doorman.js",
+  "name": "assistant-gorilladoorman",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MusicButler/assistant-gorilladoorman.git"
+  },
+  "author": "Paul Varache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MusicButler/assistant-gorilladoorman/issues"
+  },
+  "homepage": "https://github.com/MusicButler/assistant-gorilladoorman"
+}
